@@ -5,7 +5,7 @@ A java based F1 game that simulates race pitstop strategy.
 I am a massive Formula 1 Fan, and one of the best parts about watching the races live is trying to figure out what tire strategy the teams are going for. I want to try and build a small project that allows the user to try and figure out what is the best strategy given a scenario. 
 
 ## How it works
-![System diagram] (docs/Diagram.png)
+![System diagram](docs/Diagram.png)
 
 Using Java and race simulation while prompting the user to decide on what to do in pitstops 
 
